@@ -4,7 +4,7 @@ module.exports = {
 
   insert() {
     return Db.then(db => {
-      const collection = db.collection('restaurants');
+      const collection = db.collection('schemata');
 
       // TODO: Put insert here
     });
