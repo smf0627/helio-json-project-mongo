@@ -1,7 +1,7 @@
 {
-  "name": "mongodb-restaurants",
+  "name": "helio-json-project-mongo",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Inserting a new Restaurant",
   "main": "index.js",
   "directories": {
     "test": "test"
